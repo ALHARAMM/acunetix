@@ -1,7 +1,5 @@
 # acunetix
 
-# acunetix-13 install in kali linux 
-
 Acunetix is an end-to-end web security scanner that offers a 360 view of an organization's security.
 
 1. open the downloads directory
@@ -55,10 +53,3 @@ https://127.0.0.1:3443/
 ```bash
 service acunetix stop 
 ```
-
-
-
-$${\color{red}Haw\space to \space acunetix-13 \space \color{lightblue}install \space in \space \color{orange}kali \space linux \space watch \space Me}$$
-
-[<img src="https://github.com/devmehedi101/acunetix-13-kali-linux/blob/main/devmehedi101.gif" width="50%">](https://youtu.be/arV4CdSHIa4 "Now in Android: 55")
-
